@@ -1,2 +1,1 @@
-# Knowledge-planet
-知识积累、总结
+Shell 知识积累、总结

@@ -21,7 +21,7 @@ mail.use-tls: true
 
 ## HTTPS
 sentry.conf.py
-SSL/TLS 注释打开相关
+SSL/TLS 相关注释打开
 ```python
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 USE_X_FORWARDED_HOST = True
